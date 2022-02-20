@@ -83,7 +83,7 @@
   },
   "dependencies": {
     "@open-wa/wa-decrypt": "^2.0.1",
-    "@types/sharp": "^0.25.0",
+    "@types/sharp": "^0.29.5",
     "atob": "^2.1.2",
     "axios": "^0.19.1",
     "boxen": "^4.2.0",
